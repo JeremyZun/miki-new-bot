@@ -1,0 +1,20 @@
+{
+    "Youtuber":{
+        "salary": 2000,
+        "description":"Let's Go to play!",
+        "emoji":":video_game:",
+        "work_required":0
+    },
+    "Streamer":{
+        "salary": 2000,
+        "description":"Let's Go to Straming!",
+        "emoji":":video_game:",
+        "work_required":3
+    },
+    "Player":{
+        "salary": 2000,
+        "description":"Let's Go to Straming!",
+        "emoji":":video_game:",
+        "work_required":5
+    }
+}
